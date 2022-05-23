@@ -1,0 +1,184 @@
+2022-05-07 16:13:36,381 - root - INFO - --------Test_001, test_homePageTitle ----------
+2022-05-07 16:13:37,332 - root - INFO - *** Test title page FAILED
+2022-05-07 16:13:38,573 - root - INFO - --------Test_001, test_login ----------
+2022-05-07 16:23:25,619 - root - INFO - --------Test_001, test_homePageTitle ----------
+2022-05-07 16:23:26,452 - root - INFO - *** Test title page FAILED
+2022-05-07 16:23:27,638 - root - INFO - --------Test_001, test_login ----------
+2022-05-07 16:30:21,359 - root - INFO - --------Test_001, test_homePageTitle ----------
+2022-05-07 16:30:22,595 - root - INFO - --------Test_001, test_login ----------
+2022-05-07 16:34:30,333 - root - INFO - --------Test_001, test_homePageTitle ----------
+2022-05-07 16:34:32,346 - root - INFO - *** Test title page FAILED
+2022-05-07 16:34:33,576 - root - INFO - --------Test_001, test_login ----------
+2022-05-07 16:35:30,357 - root - INFO - --------Test_001, test_homePageTitle ----------
+2022-05-07 16:35:31,194 - root - INFO - *** Test title page FAILED
+2022-05-07 16:35:32,425 - root - INFO - --------Test_001, test_login ----------
+2022-05-07 16:39:11,510 - root - INFO - --------Test_001, test_homePageTitle ----------
+2022-05-07 16:39:12,355 - root - INFO - *** Test title page FAILED
+2022-05-07 16:39:13,542 - root - INFO - --------Test_001, test_login ----------
+2022-05-07 16:41:34,278 - root - INFO - --------Test_001, test_homePageTitle ----------
+2022-05-07 16:41:35,121 - root - INFO - *** Test title page FAILED
+2022-05-07 16:41:36,328 - root - INFO - --------Test_001, test_login ----------
+2022-05-07 16:46:01,147 - root - INFO - --------Test_001, test_homePageTitle ----------
+2022-05-07 16:46:02,003 - root - INFO - *** Test title page FAILED
+2022-05-07 16:46:03,251 - root - INFO - --------Test_001, test_login ----------
+2022-05-07 16:46:35,299 - root - INFO - --------Test_001, test_homePageTitle ----------
+2022-05-07 16:46:36,190 - root - INFO - *** Test title page FAILED
+2022-05-07 16:46:37,449 - root - INFO - --------Test_001, test_login ----------
+2022-05-07 16:50:25,052 - root - INFO - --------Test_001, test_homePageTitle ----------
+2022-05-07 16:50:25,947 - root - INFO - *** Test title page FAILED
+2022-05-07 16:50:27,148 - root - INFO - --------Test_001, test_login ----------
+2022-05-07 16:51:38,169 - root - INFO - --------Test_001, test_homePageTitle ----------
+2022-05-07 16:51:38,998 - root - INFO - *** Test title page FAILED
+2022-05-07 16:51:40,232 - root - INFO - --------Test_001, test_login ----------
+2022-05-07 17:05:10,459 - root - INFO - --------Test_001, test_homePageTitle ----------
+2022-05-07 17:05:11,518 - root - INFO - *** Test title page FAILED
+2022-05-07 17:05:12,745 - root - INFO - --------Test_001, test_login ----------
+2022-05-08 12:29:34,134 - root - INFO - --------Test_001, test_homePageTitle ----------
+2022-05-08 12:29:35,099 - root - INFO - *** Test title page FAILED
+2022-05-08 12:32:36,116 - root - INFO - --------Test_001, test_homePageTitle ----------
+2022-05-08 12:32:37,084 - root - INFO - *** Test title page FAILED
+2022-05-08 13:20:27,504 - root - INFO - --------Test_001, test_homePageTitle ----------
+2022-05-08 13:20:30,285 - root - INFO - *** Test title page FAILED
+2022-05-08 13:23:30,361 - root - INFO - --------Test_001, test_homePageTitle ----------
+2022-05-08 13:23:33,727 - root - INFO - *** Test title page PASSED ***
+2022-05-08 14:36:21,491 - root - INFO - --------Test_001, test_homePageTitle ----------
+2022-05-08 14:36:22,803 - root - INFO - *** Test title page PASSED ***
+2022-05-08 14:36:23,905 - root - INFO - --------Test_001, test_login ----------
+2022-05-08 14:39:30,477 - root - INFO - --------Test_001, test_homePageTitle ----------
+2022-05-08 14:39:32,494 - root - INFO - *** Test title page PASSED ***
+2022-05-08 14:39:33,746 - root - INFO - --------Test_001, test_login ----------
+2022-05-08 14:40:47,409 - root - INFO - --------Test_001, test_homePageTitle ----------
+2022-05-08 14:40:50,157 - root - INFO - *** Test title page PASSED ***
+2022-05-08 14:40:51,380 - root - INFO - --------Test_001, test_login ----------
+2022-05-08 14:45:43,852 - root - INFO - --------Test_001, test_login ----------
+2022-05-08 14:48:09,317 - root - INFO - --------Test_001, test_login ----------
+2022-05-08 14:51:39,987 - root - INFO - --------Test_001, test_login ----------
+2022-05-08 14:54:29,053 - root - INFO - --------Test_001, test_login ----------
+2022-05-08 14:57:54,228 - root - INFO - --------Test_001, test_login ----------
+2022-05-08 14:57:54,229 - root - INFO - xxxxxxxxxxxxxxxx password:Care1234!, username: ce_admin, URL:https://10.200.74.41:20043/adminui
+2022-05-08 15:24:19,825 - root - INFO - --------Test_001, test_login ----------
+2022-05-08 15:24:19,826 - root - INFO - xxxxxxxxxxxxxxxx password:Care1234!, username: ce_admin, URL:https://10.200.74.41:20043/adminui
+2022-05-08 15:28:44,473 - root - INFO - --------Test_001, test_login ----------
+2022-05-08 15:28:44,474 - root - INFO - xxxxxxxxxxxxxxxx password:Care1234!, username: ce_admin, URL:https://10.200.74.41:20043/adminui
+2022-05-08 15:32:03,989 - root - INFO - --------Test_001, test_login ----------
+2022-05-08 15:32:03,989 - root - INFO - xxxxxxxxxxxxxxxx password:Care1234!, username: ce_admin, URL:https://10.200.74.41:20043/adminui
+2022-05-08 15:32:31,780 - root - INFO - --------Test_001, test_login ----------
+2022-05-08 15:32:31,780 - root - INFO - xxxxxxxxxxxxxxxx password:Care1234!, username: ce_admin, URL:https://10.200.74.41:20043/adminui
+2022-05-08 15:33:55,461 - root - INFO - --------Test_001, test_homePageTitle ----------
+2022-05-08 17:16:11,426 - root - INFO - --------Test_001, test_homePageTitle ----------
+2022-05-08 17:17:21,524 - root - INFO - *** Test title page FAILED
+2022-05-08 17:17:33,161 - root - INFO - --------Test_001, test_homePageTitle ----------
+2022-05-08 17:18:43,057 - root - INFO - *** Test title page FAILED
+2022-05-08 17:19:03,773 - root - INFO - --------Test_001, test_homePageTitle ----------
+2022-05-08 17:19:04,791 - root - INFO - *** Test title page PASSED ***
+2022-05-08 17:19:26,105 - root - INFO - --------Test_001, test_homePageTitle ----------
+2022-05-08 17:19:27,102 - root - INFO - *** Test title page PASSED ***
+2022-05-08 17:19:28,237 - root - INFO - --------Test_001, test_login ----------
+2022-05-08 17:19:28,237 - root - INFO - xxxxxxxxxxxxxxxx password:Care1234!, username: ce_admin, URL:https://10.200.74.41:20043/adminui
+2022-05-08 17:54:51,263 - root - INFO - --------Test_001, test_login ----------
+2022-05-08 17:58:19,977 - root - INFO - --------Test_001, test_login ----------
+2022-05-08 17:58:25,463 - root - INFO - *** Test_001:  login page -- FAILED ***
+2022-05-08 17:59:25,512 - root - INFO - --------Test_001, test_login ----------
+2022-05-08 17:59:30,855 - root - INFO - *** Test_001:  login page -- FAILED ***
+2022-05-08 18:00:28,160 - root - INFO - --------Test_001, test_login ----------
+2022-05-08 18:00:35,051 - root - INFO - --------Test_001, test_homePageTitle ----------
+2022-05-08 18:02:13,299 - root - INFO - --------Test_001, test_login ----------
+2022-05-08 18:04:04,503 - root - INFO - --------Test_001, test_login ----------
+2022-05-08 18:08:07,650 - root - INFO - --------Test_001, test_login ----------
+2022-05-08 18:08:12,948 - root - INFO - --------Test_001, test_homePageTitle ----------:We're sorry...
+2022-05-08 18:08:12,948 - root - INFO - *** Test_001:  login page -- FAILED ***
+2022-05-08 18:10:15,103 - root - INFO - --------Test_001, test_login ----------
+2022-05-08 18:10:20,421 - root - INFO - --------Test_001, test_homePageTitle ----------:We're sorry...
+2022-05-08 18:10:20,421 - root - INFO - *** Test_001:  login page -- FAILED ***
+2022-05-08 18:11:16,790 - root - INFO - --------Test_001, test_login ----------
+2022-05-08 18:11:22,218 - root - INFO - --------Test_001, test_homePageTitle ----------:We're sorry...
+2022-05-08 18:11:22,218 - root - INFO - *** Test_001:  login page -- FAILED ***
+2022-05-08 18:13:14,303 - root - INFO - --------Test_001, test_login ----------
+2022-05-08 18:13:19,676 - root - INFO - --------Test_001, test_homePageTitle ----------:We're sorry...,xx
+2022-05-08 18:13:19,680 - root - INFO - *** Test_001:  login page -- FAILED ***
+2022-05-08 18:14:20,007 - root - INFO - --------Test_001, test_login ----------
+2022-05-08 18:14:25,347 - root - INFO - --------Test_001, test_homePageTitle ----------:We're sorry...,xx
+2022-05-08 18:14:25,350 - root - INFO - *** Test_001: login page -- PASSED ***
+2022-05-08 18:19:32,367 - root - INFO - --------Test_001, test_login ----------
+2022-05-08 18:19:45,676 - root - INFO - ---Test_001, test_login_page ---:Gateway
+2022-05-08 18:19:45,678 - root - INFO - *** Test_001, test_login_page -- FAILED ***
+2022-05-08 18:22:33,344 - root - INFO - --------Test_001, test_login ----------
+2022-05-08 18:22:47,706 - root - INFO - ---Test_001, test_login_page ---:Gateway
+2022-05-08 18:22:47,706 - root - INFO - *** Test_001, test_login_page -- FAILED ***
+2022-05-08 18:33:27,652 - root - INFO - --------Test_001, test_login ----------
+2022-05-08 18:33:39,861 - root - INFO - ---Test_001, test_login_page ---:Gateway
+2022-05-08 18:33:39,861 - root - INFO - *** Test_001, test_login_page -- PASSED ***
+2022-05-08 18:37:19,865 - root - INFO - --------Test_001, test_login ----------
+2022-05-08 18:37:34,028 - root - INFO - ---Test_001, test_login_page ---:Gateway
+2022-05-08 18:37:34,028 - root - INFO - *** Test_001, test_login_page -- PASSED ***
+2022-05-09 08:54:21,152 - root - INFO - --------Test_001, test_login ----------
+2022-05-09 08:54:35,177 - root - INFO - ---Test_001, test_login_page ---:Gateway
+2022-05-09 08:54:35,177 - root - INFO - *** Test_001, test_login_page -- PASSED ***
+2022-05-09 08:55:22,413 - root - INFO - --------Test_001, test_homePageTitle ----------
+2022-05-09 08:55:23,344 - root - INFO - *** Test title page PASSED ***
+2022-05-09 08:55:24,472 - root - INFO - --------Test_001, test_login ----------
+2022-05-09 08:55:24,472 - root - INFO - xxxxxxxxxxxxxxxx password:Care1234!, username: ce_admin, URL:https://10.200.74.41:20043/adminui
+2022-05-09 08:55:26,678 - root - INFO - --------Test_001, test_login ----------
+2022-05-09 08:55:39,578 - root - INFO - ---Test_001, test_login_page ---:Gateway
+2022-05-09 08:55:39,578 - root - INFO - *** Test_001, test_login_page -- PASSED ***
+2022-05-09 08:56:23,358 - root - INFO - --------Test_001, test_homePageTitle ----------
+2022-05-09 08:56:24,589 - root - INFO - *** e PASSETest title pagD ***
+2022-05-09 08:56:25,706 - root - INFO - --------Test_001, test_login ----------
+2022-05-09 08:56:40,480 - root - INFO - ---Test_001, test_login_page ---:Gateway
+2022-05-09 08:56:40,480 - root - INFO - *** Test_001, test_login_page -- PASSED ***
+2022-05-23 12:16:19,452 - root - INFO - --------Test_001, test_homePageTitle ----------
+2022-05-23 12:16:34,920 - root - INFO - --------Test_001, test_login ----------
+2022-05-23 12:17:13,074 - root - INFO - --------Test_001, test_homePageTitle ----------
+2022-05-23 12:17:21,617 - root - INFO - *** Test title page FAILED
+2022-05-23 12:17:22,769 - root - INFO - --------Test_001, test_login ----------
+2022-05-23 12:17:33,272 - root - INFO - ---Test_001, test_login_page ---:
+2022-05-23 12:17:33,272 - root - INFO - *** Test_001, test_login_page -- FAILED ***
+2022-05-23 12:18:20,201 - root - INFO - --------Test_001, test_homePageTitle ----------
+2022-05-23 12:18:25,797 - root - INFO - *** Test title page FAILED
+2022-05-23 12:18:27,038 - root - INFO - --------Test_001, test_login ----------
+2022-05-23 12:18:37,119 - root - INFO - ---Test_001, test_login_page ---:Gateway
+2022-05-23 12:18:37,119 - root - INFO - *** Test_001, test_login_page -- PASSED ***
+2022-05-23 12:40:04,495 - root - INFO - --------Test_001, test_homePageTitle ----------
+2022-05-23 12:40:10,102 - root - INFO - *** Test title page FAILED
+2022-05-23 12:40:11,299 - root - INFO - --------Test_001, test_login ----------
+2022-05-23 12:40:24,755 - root - INFO - ---Test_001, test_login_page ---:Gateway
+2022-05-23 12:40:24,761 - root - INFO - *** Test_001, test_login_page -- PASSED ***
+2022-05-23 12:42:43,337 - root - INFO - --------Test_001, test_homePageTitle ----------
+2022-05-23 12:42:53,829 - root - INFO - *** Test title page FAILED
+2022-05-23 12:42:54,989 - root - INFO - --------Test_001, test_login ----------
+2022-05-23 12:44:00,176 - root - INFO - --------Test_001, test_homePageTitle ----------
+2022-05-23 12:44:10,511 - root - INFO - *** Test title page FAILED
+2022-05-23 12:44:11,670 - root - INFO - --------Test_001, test_login ----------
+2022-05-23 12:44:22,069 - root - INFO - ---Test_001, test_login_page ---:Gateway
+2022-05-23 12:44:22,079 - root - INFO - *** Test_001, test_login_page -- PASSED ***
+2022-05-23 12:52:09,535 - root - INFO - --------Test_001, test_homePageTitle ----------
+2022-05-23 12:52:21,253 - root - INFO - *** Test title page FAILED
+2022-05-23 12:52:22,410 - root - INFO - --------Test_001, test_login ----------
+2022-05-23 12:52:33,162 - root - INFO - ---Test_001, test_login_page ---:Gateway
+2022-05-23 12:52:33,166 - root - INFO - *** Test_001, test_login_page -- PASSED ***
+2022-05-23 12:53:39,608 - root - INFO - --------Test_001, test_homePageTitle ----------
+2022-05-23 12:53:53,150 - root - INFO - *** Test title page FAILED
+2022-05-23 12:53:54,409 - root - INFO - --------Test_001, test_login ----------
+2022-05-23 12:54:04,384 - root - INFO - ---Test_001, test_login_page ---:Gateway
+2022-05-23 12:54:04,384 - root - INFO - *** Test_001, test_login_page -- PASSED ***
+2022-05-23 13:08:30,113 - root - INFO - --------Test_001, test_homePageTitle ----------
+2022-05-23 13:08:44,661 - root - INFO - *** Test title page FAILED
+2022-05-23 13:08:45,862 - root - INFO - --------Test_001, test_login ----------
+2022-05-23 13:08:55,612 - root - INFO - ---Test_001, test_login_page ---:Gateway
+2022-05-23 13:08:55,612 - root - INFO - *** Test_001, test_login_page -- PASSED ***
+2022-05-23 15:13:06,050 - root - INFO - --------Test_001, test_homePageTitle ----------
+2022-05-23 15:13:20,154 - root - INFO - *** Test title page Passed
+2022-05-23 15:13:21,419 - root - INFO - --------Test_001, test_login ----------
+2022-05-23 15:13:31,993 - root - INFO - ---Test_001, test_login_page ---:Gateway
+2022-05-23 15:13:31,993 - root - INFO - *** Test_001, test_login_page -- PASSED ***
+2022-05-23 15:31:23,637 - root - INFO - --------Test_001, test_homePageTitle ----------
+2022-05-23 15:31:36,159 - root - INFO - *** Test title page Passed
+2022-05-23 15:31:37,234 - root - INFO - --------Test_001, test_login ----------
+2022-05-23 15:32:34,733 - root - INFO - --------Test_001, test_homePageTitle ----------
+2022-05-23 15:32:47,573 - root - INFO - *** Test title page Passed
+2022-05-23 15:32:48,644 - root - INFO - --------Test_001, test_login ----------
+2022-05-23 16:11:48,283 - root - INFO - --------Test_001, test_homePageTitle ----------
+2022-05-23 16:11:54,631 - root - INFO - *** Test title page Passed
+2022-05-23 16:11:55,706 - root - INFO - --------Test_001, test_login ----------
+2022-05-23 16:12:06,477 - root - INFO - ---Test_001, test_login_page ---:Gateway
+2022-05-23 16:12:06,481 - root - INFO - *** Test_001, test_login_page -- PASSED ***
